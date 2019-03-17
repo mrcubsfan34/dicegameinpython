@@ -1,0 +1,32 @@
+body {
+  background: #712ccc;
+  text-decoration: italic;
+  text-decoration-color: #e0f221;
+  text-align: center;
+  padding-inline-start: 10px;
+  padding-inline-end: 10px;
+}
+
+.container {
+  background: #c6c6be;
+  text-decoration: bold;
+  text-decoration-color: red;
+  text-align: center;
+  padding-inline-start: 10px;
+  padding-inline-end: 10px;
+}
+
+h3 {
+  color: white;
+  text-align: center;
+}
+
+h5 {
+  color: orangered;
+  text-align: center;
+  padding-inline-start: 10px;
+  padding-inline-end: 10px;
+}
+
+
+
